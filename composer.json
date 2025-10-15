@@ -1,0 +1,28 @@
+{
+  "name": "olcaytaner/classification",
+  "version": "1.0.0",
+  "description": "Machine Learning library",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "olcaytaner\\Classification\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Olcay Taner YILDIZ",
+      "email": "olcay.yildiz@ozyegin.edu.tr",
+      "homepage": "https://www.ozyegin.edu.tr/tr/akademik-kadro/olcayyildiz"
+    }
+  ],
+  "require": {
+    "ext-mbstring": "*",
+    "ext-intl": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "11.4.0",
+    "olcaytaner/sampling": "1.0.0",
+    "olcaytaner/math": "1.0.0"
+  }
+}
