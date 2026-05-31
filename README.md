@@ -51,7 +51,7 @@ Video Lectures
 For Developers
 ============
 
-You can also see [Java](https://github.com/starlangsoftware/Classification), [Python](https://github.com/starlangsoftware/Classification-Py), [Cython](https://github.com/starlangsoftware/Classification-Cy), [Js](https://github.com/starlangsoftware/Classification-Js), [C#](https://github.com/starlangsoftware/Classification-CS), [Swift](https://github.com/starlangsoftware/Classification-Swift), or [C++](https://github.com/starlangsoftware/Classification-CPP) repository.
+You can also see [Java](https://github.com/starlangsoftware/Classification), [Python](https://github.com/starlangsoftware/Classification-Py), [Cython](https://github.com/starlangsoftware/Classification-Cy), [Js](https://github.com/starlangsoftware/Classification-Js), [C#](https://github.com/starlangsoftware/Classification-CS), [Swift](https://github.com/starlangsoftware/Classification-Swift), [C](https://github.com/starlangsoftware/Classification-C), or [C++](https://github.com/starlangsoftware/Classification-CPP) repository.
 
 ## Requirements
 
